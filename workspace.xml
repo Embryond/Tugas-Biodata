@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9d40fab-6368-4b09-b180-893d13a0f569" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Biodata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Biodata/com/tutorial/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tutorial/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gJCI8x0buLsUdSZ2xh2mkZudnl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorial.Main" />
+      <module name="Biodata" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d40fab-6368-4b09-b180-893d13a0f569" name="Default Changelist" comment="" />
+      <created>1597823241757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597823241757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="260" key="Github.ShareDialog" timestamp="1597827577712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="260" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1597827577712" />
+    <state x="499" y="61" key="Github.UntrackedFilesDialog" timestamp="1597827588820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="61" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597827588820" />
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1597827697184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597827697184" />
+    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1597827697184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597827697184" />
+    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1597827697184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597827697184" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1597827697184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597827697184" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597826526151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1597826526151" />
+  </component>
+</project>
